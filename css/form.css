@@ -123,7 +123,7 @@
   content: "";
   width: 24px;
   height: 24px;
-  background: url("img/idiomas.svg") no-repeat center center;
+  background: url("../img/idiomas.svg") no-repeat center center;
   position: absolute;
   left: -36px;
   top: -4px;
